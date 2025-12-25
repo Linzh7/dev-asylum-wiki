@@ -25,4 +25,10 @@ export default [
 		text: '关于我们',
 		link: '/zh-hans/readme/'
 	}
+	{
+		text: '更多',
+		items: [
+			{ text: '常用词汇', link: '/zh-hans/refs/glossary/' },
+		]
+	},
 ]
